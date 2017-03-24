@@ -9,5 +9,7 @@
  * @author Jean Paul
  */
 public class Car {
-    
+    public Car(){
+        
+    }
 }
